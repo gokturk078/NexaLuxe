@@ -1,0 +1,398 @@
+{
+    "nav": {
+        "portfolio": "Portfolio",
+        "about": "About Us",
+        "contact": "Contact",
+        "callAdvisor": "Call Advisor",
+        "buyingGuide": "Buying Guide"
+    },
+    "hero": {
+        "badge": "NORTH CYPRUS | PEARL OF THE MEDITERRANEAN",
+        "titleLine1": "The New Definition of",
+        "titleLine2": "Luxury",
+        "titleLine3": "in North Cyprus",
+        "subtitle": "Exclusive ultra-luxury villas, beachfront residences and investment opportunities handpicked for international investors.",
+        "ctaPrimary": "Explore Portfolio",
+        "ctaSecondary": "Virtual Tour",
+        "scrollDown": "Scroll to explore",
+        "virtualTourTitle": "Virtual Viewing Access",
+        "virtualTourSubtitle": "Enter your details to receive private 3D tour access for our premium listings."
+    },
+    "search": {
+        "location": "Location",
+        "allRegions": "All Regions",
+        "priceRange": "Price Range",
+        "allPrices": "All Prices",
+        "propertyType": "Property Type",
+        "allTypes": "All Types",
+        "search": "Search",
+        "villa": "Villa",
+        "penthouse": "Penthouse",
+        "residence": "Residence",
+        "apartment": "Apartment"
+    },
+    "stats": {
+        "properties": "Premium Properties",
+        "portfolioValue": "Portfolio Value",
+        "experience": "Years Experience",
+        "satisfaction": "Client Satisfaction"
+    },
+    "featured": {
+        "tag": "PREMIUM PORTFOLIO",
+        "title": "Featured Properties",
+        "subtitle": "Exclusive villas and penthouses with the highest investment potential, handpicked by our expert team.",
+        "bedrooms": "Bed",
+        "bathrooms": "Bath",
+        "pool": "Pool",
+        "details": "Details",
+        "inquiry": "Inquiry",
+        "viewAll": "View All Properties",
+        "new": "NEW",
+        "premium": "PREMIUM",
+        "investment": "INVESTMENT",
+        "last_units": "LAST 2 UNITS",
+        "priceFrom": "From",
+        "perMonth": "/month rental income",
+        "viewedRecently": "{count} people viewed this week",
+        "annualYield": "Annual Yield",
+        "noPropertiesFound": "No properties found matching your criteria. Try different filters.",
+        "clearFilters": "Clear all filters"
+    },
+    "whyNorthCyprus": {
+        "tag": "WHY NORTH CYPRUS?",
+        "title": "The Mediterranean's Best-Kept Investment Secret",
+        "subtitle": "Discover why savvy investors from London to Stockholm are choosing North Cyprus.",
+        "reasons": {
+            "price": {
+                "title": "2-3x Cheaper Than South Cyprus",
+                "description": "Identical Mediterranean lifestyle at a fraction of the cost. Average villa prices start from £180,000."
+            },
+            "residency": {
+                "title": "Easy Residency Permit",
+                "description": "No minimum investment required for residency — unlike Turkey's $200K threshold."
+            },
+            "roi": {
+                "title": "8-12% Annual Rental Yield",
+                "description": "Short-term rental demand is booming. Airbnb occupancy rates exceed 75% in peak season."
+            },
+            "growth": {
+                "title": "50-150% Growth Potential",
+                "description": "EU reunification talks could multiply property values. Early investors stand to benefit the most."
+            },
+            "lifestyle": {
+                "title": "340 Days of Sunshine",
+                "description": "Year-round Mediterranean climate, pristine beaches, and a relaxed lifestyle."
+            },
+            "infrastructure": {
+                "title": "Rapid Infrastructure Growth",
+                "description": "New highways, marina projects, and international university campuses driving development."
+            }
+        },
+        "highlights": {
+            "price": "From £180K",
+            "residency": "No Minimum",
+            "roi": "8-12% ROI",
+            "growth": "Up to 150%",
+            "lifestyle": "340 Days",
+            "infrastructure": "£2B+ Invested"
+        }
+    },
+    "investmentMap": {
+        "tag": "Strategic Geography",
+        "title": "Investment Performance Zones",
+        "subtitle": "Not all regions are created equal. We analyze data from 15+ metrics to identify the highest performing micro-markets in North Cyprus.",
+        "annualGrowth": "Annual Growth",
+        "status": "Status",
+        "riskProfile": "Risk Profile",
+        "viewProperties": "View properties in this zone",
+        "zones": {
+            "iskele": {
+                "name": "Iskele (Long Beach)",
+                "type": "High Yield",
+                "description": "The fastest growing investment zone. Short-term rental powerhouse with massive capital appreciation."
+            },
+            "kyrenia": {
+                "name": "Kyrenia (City Center)",
+                "type": "Luxury / Lifestyle",
+                "description": "The crown jewel. High demand for luxury penthouses and historic properties with stable value."
+            },
+            "esentepe": {
+                "name": "Esentepe / Tatlisu",
+                "type": "Beachfront Bliss",
+                "description": "The 'New Riviera'. Perfect for secondary homes and high-end beachfront villa developments."
+            }
+        },
+        "statuses": {
+            "highVelocity": "High Velocity"
+        },
+        "risks": {
+            "lowModerate": "Low-Moderate"
+        }
+    },
+    "marketInsights": {
+        "tag": "Market Intelligence",
+        "title": "Data-Driven Wealth Creation",
+        "description": "North Cyprus is currently positioned as the highest-growth property market in the Mediterranean for 2026. While Spain and Turkey face saturation, the TRNC offers a unique \"early-entry\" window with institutional-grade returns.",
+        "points": [
+            "Zero property tax on capital gains after 5 years.",
+            "British Pound based transactions eliminating currency risk.",
+            "New Ercan International Airport doubling tourism capacity.",
+            "Consistent 15% YoY growth in luxury villa segment."
+        ],
+        "institutionalBacking": "Institutional Backing",
+        "auditNote": "All projects verified by Nexa Audit 2026",
+        "metrics": {
+            "capitalAppreciation": {
+                "title": "Capital Appreciation",
+                "sub": "Annualized Average"
+            },
+            "rentalYield": {
+                "title": "Rental Yield",
+                "sub": "Net Passive Income"
+            },
+            "marketCapital": {
+                "title": "Market Capital",
+                "sub": "Total Project Volume"
+            }
+        }
+    },
+    "roiCalculator": {
+        "tag": "INVESTMENT CALCULATOR",
+        "title": "Calculate Your Return on Investment",
+        "subtitle": "See how your investment in North Cyprus could grow over time.",
+        "propertyPrice": "Property Price (£)",
+        "rentalYield": "Annual Rental Yield (%)",
+        "appreciation": "Annual Price Appreciation (%)",
+        "years": "Investment Period (Years)",
+        "yearUnit": "Y",
+        "calculate": "Calculate ROI",
+        "estimatedReturn": "Estimated Return",
+        "basedOnData": "Based on market historical data",
+        "discussPotential": "Discuss Investment Potential",
+        "results": {
+            "totalRentalIncome": "Total Rental Income",
+            "propertyValueAfter": "Property Value After",
+            "totalReturn": "Total Return",
+            "roiPercentage": "ROI Percentage",
+            "disclaimer": "* Projections are estimates based on current market data and are not guaranteed."
+        }
+    },
+    "buyingProcess": {
+        "tag": "BUYING GUIDE",
+        "title": "How to Buy Property in North Cyprus",
+        "subtitle": "A transparent, step-by-step guide for international buyers.",
+        "steps": {
+            "1": {
+                "title": "Free Consultation",
+                "description": "Share your requirements and budget. Our multilingual advisors will curate a shortlist tailored to you."
+            },
+            "2": {
+                "title": "Property Viewing Tour",
+                "description": "Visit North Cyprus for a VIP property tour or explore options via our immersive virtual tours."
+            },
+            "3": {
+                "title": "Legal Due Diligence",
+                "description": "Our partner lawyers verify title deeds, planning permissions, and all legal documentation."
+            },
+            "4": {
+                "title": "Secure Your Property",
+                "description": "Pay a refundable deposit to reserve. We handle contracts, permits, and government approvals."
+            },
+            "5": {
+                "title": "Completion & Handover",
+                "description": "Title deed transfer, utility connections, furnishing — we manage everything until you get the keys."
+            }
+        },
+        "cta": "Start Your Journey"
+    },
+    "testimonials": {
+        "tag": "CLIENT STORIES",
+        "title": "What Our Clients Say",
+        "subtitle": "Real stories from international investors who trusted us with their biggest investment."
+    },
+    "blog": {
+        "tag": "INSIGHTS & GUIDES",
+        "title": "Expert Knowledge",
+        "subtitle": "Market analysis, buying guides, and insider tips for North Cyprus investors.",
+        "readMore": "Read Article",
+        "minRead": "min read",
+        "categories": {
+            "legal": "Legal Guide",
+            "investment": "Investment",
+            "rental": "Rental Income"
+        }
+    },
+    "cta": {
+        "tag": "START TODAY",
+        "title": "Your Dream Property Awaits",
+        "subtitle": "Schedule a free consultation with our investment advisors. We speak your language.",
+        "whatsapp": "WhatsApp Us",
+        "call": "Call Now",
+        "email": "Send Email",
+        "formTitle": "Get Your Free Property Report",
+        "formName": "Full Name",
+        "formEmail": "Email Address",
+        "formPhone": "Phone (WhatsApp)",
+        "formBudget": "Budget Range",
+        "formMessage": "Tell us what you're looking for...",
+        "formSubmit": "Get My Free Report",
+        "formDisclaimer": "We respect your privacy. No spam, ever.",
+        "whatsappChat": "WhatsApp Chat",
+        "emailSupport": "Email Support",
+        "directLine": "Direct Line",
+        "chatWithAdvisor": "Chat with an Advisor"
+    },
+    "footer": {
+        "description": "North Cyprus's premier luxury real estate consultancy. Transforming investment dreams into reality since 2009.",
+        "quickLinks": "Quick Links",
+        "regions": "Regions",
+        "portfolio": "Portfolio",
+        "insights": "Insights",
+        "contact": "Contact",
+        "legal": "Legal",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "cookies": "Cookie Policy",
+        "copyright": "All rights reserved.",
+        "poweredBy": "Powered by"
+    },
+    "propertyDetail": {
+        "backToPortfolio": "Back to Portfolio",
+        "overview": "Property Overview",
+        "bedrooms": "Bedrooms",
+        "bathrooms": "Bathrooms",
+        "features": "Key Features",
+        "description": "Description",
+        "location": "Location",
+        "floorPlan": "Floor Plan",
+        "virtualTour": "Virtual Tour",
+        "similarProperties": "Similar Properties",
+        "requestViewing": "Request a Viewing",
+        "downloadBrochure": "Download Brochure",
+        "shareProperty": "Share Property",
+        "priceHistory": "Price Trend",
+        "monthlyPayment": "Est. Monthly Payment",
+        "calculateMortgage": "Calculate Mortgage",
+        "investmentValue": "Investment Value",
+        "highGrowth": "High Growth Potential",
+        "propertyType": "Property Type",
+        "status": "Status",
+        "available": "Available",
+        "legalNotice": "Comprehensive legal due diligence and land title verification completed by Nexa Legal.",
+        "limitedAvailability": "Limited availability in this project",
+        "nextSiteVisit": "Next Site Visit",
+        "viewingSlots": "Private Viewing slots available this week",
+        "vision": "The Vision",
+        "interior": "Interior Details",
+        "exterior": "Exterior Luxe",
+        "eliteProperties": "Elite Properties",
+        "eliteSubtitle": "Curated selection of North Cyprus top-tier residences in the same performance bracket."
+    },
+    "leadCapture": {
+        "title": "Wait! Don't Miss Out",
+        "subtitle": "Get our exclusive North Cyprus Investment Guide — free.",
+        "bulletPoints": [
+            "Top 10 undervalued areas for 2026",
+            "Complete legal buying checklist",
+            "Tax optimization strategies for foreign buyers"
+        ],
+        "emailPlaceholder": "Your email address",
+        "whatsappPlaceholder": "WhatsApp Number (Optional)",
+        "submit": "Send Me the Guide",
+        "guideSent": "✅ Guide sent! Check your inbox.",
+        "noSpam": "No spam. Unsubscribe anytime.",
+        "trustBadge": "2,400+ Investors Trust Us"
+    },
+    "floating": {
+        "whatsapp": "Chat on WhatsApp",
+        "call": "Call Now",
+        "email": "Email Us",
+        "whatsappMessages": {
+            "property": "Hi, I'm interested in this property. Can I get more details and a floor plan?",
+            "portfolio": "Hi, I've seen your portfolio. I'm looking for a luxury investment in North Cyprus.",
+            "default": "Hi, I'm interested in your North Cyprus properties. Could you send me more information?"
+        }
+    },
+    "404": {
+        "title": "Page Not Found",
+        "subtitle": "The property you're looking for may have been sold.",
+        "backHome": "Return to Homepage"
+    },
+    "contact": {
+        "title": "Investment Inquiry",
+        "subtitle": "Connect with our senior advisors for pre-launch access and private viewings.",
+        "name": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone (WhatsApp)",
+        "message": "Your Message",
+        "submit": "Send Inquiry",
+        "processing": "Sending...",
+        "successTitle": "Inquiry Received",
+        "successSubtitle": "A senior NEXA LUXE agent will contact you shortly on your preferred channel.",
+        "backToSite": "Back to Site",
+        "onlineNow": "Online Now",
+        "responseTime": "Average response: 12m"
+    },
+    "chat": {
+        "assistantName": "Nexa Assistant",
+        "liveSupport": "Live Support",
+        "welcome": "Hello! I'm the Nexa Investment Assistant. How can I help you today?",
+        "placeholder": "Type a message...",
+        "hint": "How can I help you today?",
+        "priorityTitle": "Priority Advisory",
+        "prioritySubtitle": "Speak with our head of investment directly.",
+        "actions": {
+            "regions": "Top Regions",
+            "roi": "Calculate ROI",
+            "market": "Market Analysis",
+            "advisor": "Speak to Advisor"
+        },
+        "responses": {
+            "roi": "To calculate investment returns, you can use our ROI tool or speak with our experts.",
+            "price": "Properties in our portfolio start from £150,000. Would you like me to show you suitable options?",
+            "general": "That's a great question! Our expert investment advisor can provide you with detailed information in 5 minutes."
+        }
+    },
+    "propertyFeatures": {
+        "Infinity Pool": "Infinity Pool",
+        "Smart Home System": "Smart Home System",
+        "Wine Cellar": "Wine Cellar",
+        "Underfloor Heating": "Underfloor Heating",
+        "Private Rooftop": "Private Rooftop",
+        "Jacuzzi": "Jacuzzi",
+        "Gym Access": "Gym Access",
+        "Concierge Service": "Concierge Service",
+        "Large Garden": "Large Garden",
+        "Guest House": "Guest House",
+        "Staff Quarters": "Staff Quarters",
+        "BBQ Area": "BBQ Area",
+        "Marina Access": "Marina Access",
+        "Shared Pool": "Shared Pool",
+        "24/7 Security": "24/7 Security",
+        "Central Location": "Central Location",
+        "Modern Kitchen": "Modern Kitchen",
+        "Private Parking": "Private Parking",
+        "Nearby Schools": "Nearby Schools",
+        "Beach Access": "Beach Access",
+        "Pool": "Pool",
+        "Landscaped Gardens": "Landscaped Gardens",
+        "Sports Facilities": "Sports Facilities"
+    },
+    "propertyCategories": {
+        "Villa": "Villa",
+        "Penthouse": "Penthouse",
+        "Residence": "Residence",
+        "Apartment": "Apartment"
+    },
+    "locations": {
+        "Girne": "Kyrenia",
+        "Bellapais": "Bellapais",
+        "İskele": "Iskele",
+        "Long Beach": "Long Beach",
+        "Çatalköy": "Catalkoy",
+        "Gazimağusa": "Famagusta",
+        "Yeni İskele": "Yeni Iskele",
+        "Center": "Center",
+        "Esentepe": "Esentepe"
+    }
+}

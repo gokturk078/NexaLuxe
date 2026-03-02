@@ -1,0 +1,398 @@
+{
+    "nav": {
+        "portfolio": "Portfolio",
+        "about": "Über Uns",
+        "contact": "Kontakt",
+        "callAdvisor": "Berater Anrufen",
+        "buyingGuide": "Kaufberatung"
+    },
+    "hero": {
+        "badge": "NORDZYPERN | PERLE DES MITTELMEERS",
+        "titleLine1": "Die Neue Definition von",
+        "titleLine2": "Luxus",
+        "titleLine3": "in Nordzypern",
+        "subtitle": "Exklusive Ultra-Luxus-Villen, Residenzen direkt am Strand und Investitionsmöglichkeiten, die sorgfältig für internationale Investoren ausgewählt wurden.",
+        "ctaPrimary": "Portfolio Erkunden",
+        "ctaSecondary": "Virtuelle Tour",
+        "scrollDown": "Scrollen zum Erkunden",
+        "virtualTourTitle": "Virtueller Besichtigungszugang",
+        "virtualTourSubtitle": "Geben Sie Ihre Daten ein, um privaten 3D-Tour-Zugang für unsere Premium-Angebote zu erhalten."
+    },
+    "search": {
+        "location": "Standort",
+        "allRegions": "Alle Regionen",
+        "priceRange": "Preisspanne",
+        "allPrices": "Alle Preise",
+        "propertyType": "Immobilientyp",
+        "allTypes": "Alle Typen",
+        "search": "Suchen",
+        "villa": "Villa",
+        "penthouse": "Penthouse",
+        "residence": "Residenz",
+        "apartment": "Wohnung"
+    },
+    "stats": {
+        "properties": "Premium-Immobilien",
+        "portfolioValue": "Portfoliowert",
+        "experience": "Jahre Erfahrung",
+        "satisfaction": "Kundenzufriedenheit"
+    },
+    "featured": {
+        "tag": "PREMIUM-PORTFOLIO",
+        "title": "Ausgewählte Immobilien",
+        "subtitle": "Exklusive Villen und Penthouses mit höchstem Investitionspotenzial, handverlesen von unserem Expertenteam.",
+        "bedrooms": "Schlafzimmer",
+        "bathrooms": "Badezimmer",
+        "pool": "Pool",
+        "details": "Anfrage",
+        "inquiry": "Details",
+        "viewAll": "Alle Immobilien Anzeigen",
+        "new": "NEU",
+        "premium": "PREMIUM",
+        "investment": "INVESTITION",
+        "last_units": "LETZTE 2 EINHEITEN",
+        "priceFrom": "Ab",
+        "perMonth": "/Monat Mieteinnahmen",
+        "viewedRecently": "{count} Personen haben diese Woche zugesehen",
+        "annualYield": "Jahresrendite",
+        "noPropertiesFound": "Keine Immobilien gefunden, die Ihren Kriterien entsprechen. Versuchen Sie andere Filter.",
+        "clearFilters": "Alle Filter löschen"
+    },
+    "whyNorthCyprus": {
+        "tag": "WARUM NORDZYPERN?",
+        "title": "Das am besten gehütete Investitionsgeheimnis des Mittelmeers",
+        "subtitle": "Entdecken Sie, warum versierte Investoren von London bis Stockholm Nordzypern wählen.",
+        "reasons": {
+            "price": {
+                "title": "2-3x Günstiger als Südzypern",
+                "description": "Identischer mediterraner Lebensstil zu einem Bruchteil der Kosten. Durchschnittliche Villenpreise beginnen bei £180.000."
+            },
+            "residency": {
+                "title": "Einfache Aufenthaltserlaubnis",
+                "description": "Keine Mindestinvestition für den Aufenthalt erforderlich — im Gegensatz zur 200.000-Dollar-Schwelle der Türkei."
+            },
+            "roi": {
+                "title": "8-12% Jährliche Mietrendite",
+                "description": "Die Nachfrage nach Kurzzeitmieten boomt. Die Airbnb-Belegungsraten liegen in der Hauptsaison bei über 75%."
+            },
+            "growth": {
+                "title": "50-150% Wachstumspotenzial",
+                "description": "EU-Wiedervereinigungsgespräche könnten die Immobilienwerte vervielfachen. Frühe Investoren profitieren am meisten."
+            },
+            "lifestyle": {
+                "title": "340 Sonnentage",
+                "description": "Ganzjähriges mediterranes Klima, unberührte Strände und ein entspannter Lebensstil."
+            },
+            "infrastructure": {
+                "title": "Rasantes Infrastrukturwachstum",
+                "description": "Neue Autobahnen, Jachthafenprojekte und internationale Universitätsgelände treiben die Entwicklung voran."
+            }
+        },
+        "highlights": {
+            "price": "Ab £180K",
+            "residency": "Kein Minimum",
+            "roi": "8-12% ROI",
+            "growth": "Bis zu 150%",
+            "lifestyle": "340 Tage",
+            "infrastructure": "£2B+ Investiert"
+        }
+    },
+    "investmentMap": {
+        "tag": "Strategische Geografie",
+        "title": "Investitions-Performance-Zonen",
+        "subtitle": "Nicht alle Regionen sind gleich. Wir analysieren Daten aus über 15 Metriken, um die leistungsstärksten Mikromärkte in Nordzypern zu identifizieren.",
+        "annualGrowth": "Jährliches Wachstum",
+        "status": "Status",
+        "riskProfile": "Risikoprofil",
+        "viewProperties": "Immobilien in dieser Zone anzeigen",
+        "zones": {
+            "iskele": {
+                "name": "Iskele (Long Beach)",
+                "type": "Hohe Rendite",
+                "description": "Die am schnellsten wachsende Investitionszone. Kurzzeitmiet-Kraftpaket mit massivem Kapitalzuwachs."
+            },
+            "kyrenia": {
+                "name": "Kyrenia (Stadtzentrum)",
+                "type": "Luxus / Lifestyle",
+                "description": "Das Kronjuwel. Hohe Nachfrage nach Luxus-Penthouses und historischen Immobilien mit stabilem Wert."
+            },
+            "esentepe": {
+                "name": "Esentepe / Tatlisu",
+                "type": "Glück am Strand",
+                "description": "Die 'Neue Riviera'. Perfekt für Zweitwohnsitze und hochwertige Villenprojekte direkt am Strand."
+            }
+        },
+        "statuses": {
+            "highVelocity": "Hohe Dynamik"
+        },
+        "risks": {
+            "lowModerate": "Niedrig-Moderat"
+        }
+    },
+    "marketInsights": {
+        "tag": "Marktintelligenz",
+        "title": "Datengetriebene Vermögensbildung",
+        "description": "Nordzypern ist derzeit als der wachstumsstärkste Immobilienmarkt im Mittelmeerraum für 2026 positioniert. Während Spanien und die Türkei an Sättigung grenzen, bietet die TRNC bietet ein einzigartiges 'Early-Entry'-Fenster mit Renditen auf institutionellem Niveau.",
+        "points": [
+            "Null Grundsteuer auf Kapitalerträge nach 5 Jahren.",
+            "Transaktionen auf Basis des Britischen Pfunds eliminieren das Währungsrisiko.",
+            "Neuer internationaler Flughafen Ercan verdoppelt die Tourismuskapazität.",
+            "Konsistentes jährliches Wachstum von 15 % im Luxusvillen-Segment."
+        ],
+        "institutionalBacking": "Institutionelle Unterstützung",
+        "auditNote": "Alle Projekte von Nexa Audit 2026 verifiziert",
+        "metrics": {
+            "capitalAppreciation": {
+                "title": "Kapitalzuwachs",
+                "sub": "Annualisierter Durchschnitt"
+            },
+            "rentalYield": {
+                "title": "Mietrendite",
+                "sub": "Netto-Passives Einkommen"
+            },
+            "marketCapital": {
+                "title": "Marktkapital",
+                "sub": "Gesamtprojektvolumen"
+            }
+        }
+    },
+    "roiCalculator": {
+        "tag": "INVESTITIONSRECHNER",
+        "title": "Berechnen Sie Ihre Rendite",
+        "subtitle": "Sehen Sie, wie Ihre Investition in Nordzypern im Laufe der Zeit wachsen könnte.",
+        "propertyPrice": "Immobilienpreis (£)",
+        "rentalYield": "Jährliche Mietrendite (%)",
+        "appreciation": "Jährliche Wertsteigerung (%)",
+        "years": "Investitionszeitraum (Jahre)",
+        "yearUnit": "J",
+        "calculate": "ROI Berechnen",
+        "estimatedReturn": "Geschätzte Rendite",
+        "basedOnData": "Basierend auf historischen Marktdaten",
+        "discussPotential": "Investitionspotenzial Besprechen",
+        "results": {
+            "totalRentalIncome": "Gesamtmieteinnahmen",
+            "propertyValueAfter": "Immobilienwert Nach",
+            "totalReturn": "Gesamtrendite",
+            "roiPercentage": "ROI Prozentsatz",
+            "disclaimer": "* Prognosen sind Schätzungen auf Basis aktueller Marktdaten und werden nicht garantiert."
+        }
+    },
+    "buyingProcess": {
+        "tag": "KAUFBERATUNG",
+        "title": "Wie Man Immobilien in Nordzypern Kauft",
+        "subtitle": "Ein transparenter Schritt-für-Schritt-Leitfaden für internationale Käufer.",
+        "steps": {
+            "1": {
+                "title": "Kostenlose Beratung",
+                "description": "Teilen Sie uns Ihre Anforderungen und Ihr Budget mit. Unsere mehrsprachigen Berater erstellen eine auf Sie zugeschnittene Auswahl."
+            },
+            "2": {
+                "title": "Besichtigungstour",
+                "description": "Besuchen Sie Nordzypern für eine VIP-Besichtigungstour oder erkunden Sie Optionen über unsere virtuellen Touren."
+            },
+            "3": {
+                "title": "Rechtliche Prüfung",
+                "description": "Unsere Partneranwälte überprüfen Eigentumsurkunden, Planungsgenehmigungen und alle rechtlichen Unterlagen."
+            },
+            "4": {
+                "title": "Sichern Sie Ihre Immobilie",
+                "description": "Zahlen Sie eine erstattungsfähige Anzahlung zur Reservierung. Wir kümmern uns um Verträge, Genehmigungen und behördliche Zulassungen."
+            },
+            "5": {
+                "title": "Abschluss & Übergabe",
+                "description": "Eigentumsübertragung, Versorgungsanschlüsse, Möblierung — wir verwalten alles, bis Sie die Schlüssel erhalten."
+            }
+        },
+        "cta": "Starten Sie Ihre Reise"
+    },
+    "testimonials": {
+        "tag": "KUNDENGESCHICHTEN",
+        "title": "Was Unsere Kunden Sagen",
+        "subtitle": "Echte Geschichten von internationalen Investoren, die uns ihre größte Investition anvertraut haben."
+    },
+    "blog": {
+        "tag": "EINBLICKE & LEITFÄDEN",
+        "title": "Expertenwissen",
+        "subtitle": "Marktanalysen, Kaufberatungen und Insider-Tipps für Investoren in Nordzypern.",
+        "readMore": "Artikel Lesen",
+        "minRead": "Min. Lesedauer",
+        "categories": {
+            "legal": "Rechtsratgeber",
+            "investment": "Investition",
+            "rental": "Mieteinnahmen"
+        }
+    },
+    "cta": {
+        "tag": "HEUTE STARTEN",
+        "title": "Ihre Traumimmobilie Wartet",
+        "subtitle": "Vereinbaren Sie ein kostenloses Beratungsgespräch mit unseren Investitionsberatern. Wir sprechen Ihre Sprache.",
+        "whatsapp": "WhatsApp Schreiben",
+        "call": "Jetzt Anrufen",
+        "email": "E-Mail Senden",
+        "formTitle": "Holen Sie Sich Ihren Kostenlosen Immobilienbericht",
+        "formName": "Vollständiger Name",
+        "formEmail": "E-Mail-Adresse",
+        "formPhone": "Telefon (WhatsApp)",
+        "formBudget": "Budgetspanne",
+        "formMessage": "Sagen Sie uns, wonach Sie suchen...",
+        "formSubmit": "Meinen Kostenlosen Bericht Anfordern",
+        "formDisclaimer": "Wir respektieren Ihre Privatsphäre. Kein Spam, niemals.",
+        "whatsappChat": "WhatsApp-Chat",
+        "emailSupport": "E-Mail-Support",
+        "directLine": "Direktwahl",
+        "chatWithAdvisor": "Mit einem Berater chatten"
+    },
+    "footer": {
+        "description": "Nordzyperns führende Luxusimmobilienberatung. Wir verwandeln Investitionsträume seit 2009 in die Realität.",
+        "quickLinks": "Schnelllinks",
+        "regions": "Regionen",
+        "portfolio": "Portfolio",
+        "insights": "Einblicke",
+        "contact": "Kontakt",
+        "legal": "Rechtliches",
+        "privacy": "Datenschutzrichtlinie",
+        "terms": "Nutzungsbedingungen",
+        "cookies": "Cookie-Richtlinie",
+        "copyright": "Alle Rechte vorbehalten.",
+        "poweredBy": "Unterstützt durch"
+    },
+    "propertyDetail": {
+        "backToPortfolio": "Zurück zum Portfolio",
+        "overview": "Immobilienübersicht",
+        "bedrooms": "Schlafzimmer",
+        "bathrooms": "Badezimmer",
+        "features": "Hauptmerkmale",
+        "description": "Beschreibung",
+        "location": "Standort",
+        "floorPlan": "Grundriss",
+        "virtualTour": "Virtuelle Tour",
+        "similarProperties": "Ähnliche Immobilien",
+        "requestViewing": "Besichtigung Anfordern",
+        "downloadBrochure": "Broschüre Herunterladen",
+        "shareProperty": "Immobilie Teilen",
+        "priceHistory": "Preistrend",
+        "monthlyPayment": "Geschätzte monatliche Zahlung",
+        "calculateMortgage": "Hypothek Berechnen",
+        "investmentValue": "Investitionswert",
+        "highGrowth": "Hohes Wachstumspotenzial",
+        "propertyType": "Immobilientyp",
+        "status": "Status",
+        "available": "Verfügbar",
+        "legalNotice": "Umfassende rechtliche Prüfung und Überprüfung der Eigentumsurkunden durch Nexa Legal abgeschlossen.",
+        "limitedAvailability": "Begrenzte Verfügbarkeit in diesem Projekt",
+        "nextSiteVisit": "Nächster Besichtigungstermin",
+        "viewingSlots": "Diese Woche sind private Besichtigungstermine verfügbar",
+        "vision": "Die Vision",
+        "interior": "Innenraumdetails",
+        "exterior": "Außenbereich Luxus",
+        "eliteProperties": "Elite-Immobilien",
+        "eliteSubtitle": "Kuratierte Auswahl an erstklassigen Residenzen in Nordzypern in der gleichen Leistungsklasse."
+    },
+    "leadCapture": {
+        "title": "Warten Sie! Verpassen Sie Nichts",
+        "subtitle": "Holen Sie sich unseren exklusiven Investitionsleitfaden für Nordzypern — kostenlos.",
+        "bulletPoints": [
+            "Top 10 unterbewertete Gebiete für 2026",
+            "Vollständige rechtliche Kauf-Checkliste",
+            "Steueroptimierungsstrategien für ausländische Käufer"
+        ],
+        "emailPlaceholder": "Ihre E-Mail-Adresse",
+        "whatsappPlaceholder": "WhatsApp-Nummer (Optional)",
+        "submit": "Schicken Sie mir den Leitfaden",
+        "guideSent": "✅ Leitfaden gesendet! Prüfen Sie Ihren Posteingang.",
+        "noSpam": "Kein Spam. Jederzeit abbestellbar.",
+        "trustBadge": "Über 2.400 Investoren vertrauen uns"
+    },
+    "floating": {
+        "whatsapp": "Chat auf WhatsApp",
+        "call": "Jetzt Anrufen",
+        "email": "Schreiben Sie Uns",
+        "whatsappMessages": {
+            "property": "Hallo, ich interessiere mich für diese Immobilie. Kann ich weitere Details und einen Grundriss erhalten?",
+            "portfolio": "Hallo, ich habe Ihr Portfolio gesehen. Ich suche nach einer Luxusinvestition in Nordzypern.",
+            "default": "Hallo, ich interessiere mich für Ihre Immobilien in Nordzypern. Könnten Sie mir weitere Informationen zusenden?"
+        }
+    },
+    "404": {
+        "title": "Seite Nicht Gefunden",
+        "subtitle": "Das gesuchte Objekt wurde möglicherweise bereits verkauft.",
+        "backHome": "Zurück zur Startseite"
+    },
+    "contact": {
+        "title": "Investitionsanfrage",
+        "subtitle": "Kontaktieren Sie unsere erfahrenen Berater für Vorabzugang und private Besichtigungen.",
+        "name": "Vollständiger Name",
+        "email": "E-Mail-Adresse",
+        "phone": "Telefon (WhatsApp)",
+        "message": "Ihre Nachricht",
+        "submit": "Anfrage Senden",
+        "processing": "Wird gesendet...",
+        "successTitle": "Anfrage Erhalten",
+        "successSubtitle": "Ein leitender NEXA LUXE Berater wird Sie in Kürze über Ihren bevorzugten Kanal kontaktieren.",
+        "backToSite": "Zurück zur Website",
+        "onlineNow": "Jetzt Online",
+        "responseTime": "Durchschnittliche Antwortzeit: 12 Min."
+    },
+    "chat": {
+        "assistantName": "Nexa Assistent",
+        "liveSupport": "Live-Support",
+        "welcome": "Hallo! Ich bin der Nexa Investment Assistant. Wie kann ich Ihnen heute helfen?",
+        "placeholder": "Nachricht eingeben...",
+        "hint": "Wie kann ich Ihnen heute helfen?",
+        "priorityTitle": "Prioritätsberatung",
+        "prioritySubtitle": "Sprechen Sie direkt mit unserem Investmentleiter.",
+        "actions": {
+            "regions": "Top-Regionen",
+            "roi": "ROI berechnen",
+            "market": "Marktanalyse",
+            "advisor": "Mit Berater sprechen"
+        },
+        "responses": {
+            "roi": "Um die Investitionsrenditen zu berechnen, können Sie unser ROI-Tool verwenden oder mit unseren Experten sprechen.",
+            "price": "Immobilien in unserem Portfolio beginnen bei £150.000. Möchten Sie, dass ich Ihnen passende Optionen zeige?",
+            "general": "Das ist eine gute Frage! Unser kompetenter Anlageberater kann Sie in 5 Minuten ausführlich informieren."
+        }
+    },
+    "propertyFeatures": {
+        "Infinity Pool": "Infinity-Pool",
+        "Smart Home System": "Smart-Home-System",
+        "Wine Cellar": "Weinkeller",
+        "Underfloor Heating": "Fußbodenheizung",
+        "Private Rooftop": "Private Dachterrasse",
+        "Jacuzzi": "Whirlpool",
+        "Gym Access": "Fitnessstudio-Zugang",
+        "Concierge Service": "Concierge-Service",
+        "Large Garden": "Großer Garten",
+        "Guest House": "Gästehaus",
+        "Staff Quarters": "Personaltrakt",
+        "BBQ Area": "Grillplatz",
+        "Marina Access": "Marina-Zugang",
+        "Shared Pool": "Gemeinschaftspool",
+        "24/7 Security": "24/7 Sicherheit",
+        "Central Location": "Zentrale Lage",
+        "Modern Kitchen": "Moderne Küche",
+        "Private Parking": "Privatparkplatz",
+        "Nearby Schools": "Schulen in der Nähe",
+        "Beach Access": "Strandzugang",
+        "Pool": "Pool",
+        "Landscaped Gardens": "Gartenanlagen",
+        "Sports Facilities": "Sportanlagen"
+    },
+    "propertyCategories": {
+        "Villa": "Villa",
+        "Penthouse": "Penthouse",
+        "Residence": "Residenz",
+        "Apartment": "Wohnung"
+    },
+    "locations": {
+        "Girne": "Kyrenia",
+        "Bellapais": "Bellapais",
+        "İskele": "Iskele",
+        "Long Beach": "Long Beach",
+        "Çatalköy": "Catalkoy",
+        "Gazimağusa": "Famagusta",
+        "Yeni İskele": "Yeni Iskele",
+        "Center": "Zentrum",
+        "Esentepe": "Esentepe"
+    }
+}

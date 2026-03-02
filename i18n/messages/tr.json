@@ -1,0 +1,398 @@
+{
+    "nav": {
+        "portfolio": "Portföy",
+        "about": "Hakkımızda",
+        "contact": "İletişim",
+        "callAdvisor": "Danışmanı Ara",
+        "buyingGuide": "Alım Rehberi"
+    },
+    "hero": {
+        "badge": "KUZEY KIBRIS | AKDENİZ'İN İNCİSİ",
+        "titleLine1": "Kuzey Kıbrıs'ta",
+        "titleLine2": "Lüksün",
+        "titleLine3": "Yeni Tanımı",
+        "subtitle": "Uluslararası yatırımcılar için özenle seçilmiş seçkin ultra lüks villalar, denize sıfır rezidanslar ve yatırım fırsatları.",
+        "ctaPrimary": "Portföyü Keşfet",
+        "ctaSecondary": "Sanal Tur",
+        "scrollDown": "Aşağı Kaydır",
+        "virtualTourTitle": "Sanal Görüntüleme Erişimi",
+        "virtualTourSubtitle": "Premium portföyümüz için özel 3D tur erişimi almak üzere bilgilerinizi girin."
+    },
+    "search": {
+        "location": "Konum",
+        "allRegions": "Tüm Bölgeler",
+        "priceRange": "Fiyat Aralığı",
+        "allPrices": "Tüm Fiyatlar",
+        "propertyType": "Emlak Tipi",
+        "allTypes": "Tüm Tipler",
+        "search": "Ara",
+        "villa": "Villa",
+        "penthouse": "Penthouse",
+        "residence": "Rezidans",
+        "apartment": "Daire"
+    },
+    "stats": {
+        "properties": "Seçkin Mülkler",
+        "portfolioValue": "Portföy Değeri",
+        "experience": "Yıllık Deneyim",
+        "satisfaction": "Müşteri Memnuniyeti"
+    },
+    "featured": {
+        "tag": "PREMİUM PORTFÖY",
+        "title": "Öne Çıkan Emlaklar",
+        "subtitle": "Uzman ekibimiz tarafından özenle seçilmiş, en yüksek yatırım potansiyeline sahip özel villalar ve penthouse daireler.",
+        "bedrooms": "Yatak",
+        "bathrooms": "Banyo",
+        "pool": "Havuz",
+        "details": "İncele",
+        "inquiry": "Detaylar",
+        "viewAll": "Tüm Emlakları Gör",
+        "new": "YENİ",
+        "premium": "PREMİUM",
+        "investment": "YATIRIM",
+        "last_units": "SON 2 ÜNİTE",
+        "priceFrom": "dan Başlayan",
+        "perMonth": "/ay kira getirisi",
+        "viewedRecently": "Bu hafta {count} kişi inceledi",
+        "annualYield": "Yıllık Getiri",
+        "noPropertiesFound": "Bu kriterlere uygun mülk bulunamadı. Farklı filtreler deneyin.",
+        "clearFilters": "Tüm filtreleri temizle"
+    },
+    "whyNorthCyprus": {
+        "tag": "NEDEN KUZEY KIBRIS?",
+        "title": "Akdeniz'in En İyi Korunan Yatırım Sırrı",
+        "subtitle": "Londra'dan Stockholm'e kadar bilgili yatırımcıların neden Kuzey Kıbrıs'ı seçtiğini keşfedin.",
+        "reasons": {
+            "price": {
+                "title": "Güney Kıbrıs'tan 2-3 Kat Daha Ucuz",
+                "description": "Maliyetin çok küçük bir kısmıyla birebir aynı Akdeniz yaşam tarzı. Ortalama villa fiyatları £180.000'den başlıyor."
+            },
+            "residency": {
+                "title": "Kolay Oturma İzni",
+                "description": "Oturma izni için minimum yatırım şartı yok — Türkiye'nin 200 bin dolarlık barajının aksine."
+            },
+            "roi": {
+                "title": "%8-12 Yıllık Kira Getirisi",
+                "description": "Kısa dönemli kiralama talebi patlıyor. Airbnb doluluk oranları yoğun sezonda %75'i aşıyor."
+            },
+            "growth": {
+                "title": "%50-150 Büyüme Potansiyeli",
+                "description": "AB birleşme görüşmeleri mülk değerlerini katlayabilir. Erken yatırım yapanlar en çok kazananlar olacak."
+            },
+            "lifestyle": {
+                "title": "340 Gün Güneş",
+                "description": "Yıl boyu süren Akdeniz iklimi, el değmemiş plajlar ve rahat bir yaşam tarzı."
+            },
+            "infrastructure": {
+                "title": "Hızlı Altyapı Büyümesi",
+                "description": "Gelişimi tetikleyen yeni otoyollar, marina projeleri ve uluslararası üniversite kampüsleri."
+            }
+        },
+        "highlights": {
+            "price": "£180K'dan Başlayan",
+            "residency": "Minimum Şart Yok",
+            "roi": "%8-12 ROI",
+            "growth": "%150'ye Kadar",
+            "lifestyle": "340 Gün",
+            "infrastructure": "£2B+ Yatırım"
+        }
+    },
+    "investmentMap": {
+        "tag": "Stratejik Coğrafya",
+        "title": "Yatırım Performans Bölgeleri",
+        "subtitle": "Her bölge aynı değildir. Kuzey Kıbrıs'taki en yüksek performanslı mikro pazarları belirlemek için 15'ten fazla metriği analiz ediyoruz.",
+        "annualGrowth": "Yıllık Büyüme",
+        "status": "Durum",
+        "riskProfile": "Risk Profili",
+        "viewProperties": "Bu bölgedeki mülkleri gör",
+        "zones": {
+            "iskele": {
+                "name": "İskele (Long Beach)",
+                "type": "Yüksek Getiri",
+                "description": "En hızlı büyüyen yatırım bölgesi. Muazzam sermaye değerlemesi ile kısa vadeli kiralama merkezi."
+            },
+            "kyrenia": {
+                "name": "Girne (Şehir Merkezi)",
+                "type": "Lüks / Yaşam Tarzı",
+                "description": "Taç mücevher. Lüks penthouse daireler ve istikrarlı değere sahip tarihi mülkler için yüksek talep."
+            },
+            "esentepe": {
+                "name": "Esentepe / Tatlısu",
+                "type": "Denize Sıfır Huzur",
+                "description": "'Yeni Riviera'. İkinci evler ve üst düzey denize sıfır villa projeleri için mükemmel."
+            }
+        },
+        "statuses": {
+            "highVelocity": "Yüksek Hız"
+        },
+        "risks": {
+            "lowModerate": "Düşük-Orta"
+        }
+    },
+    "marketInsights": {
+        "tag": "Piyasa İstihbaratı",
+        "title": "Veriye Dayalı Servet Oluşturma",
+        "description": "Kuzey Kıbrıs şu anda 2026 yılı için Akdeniz'in en hızlı büyüyen emlak piyasası konumundadır. İspanya ve Türkiye doyuma ulaşırken, KKTC kurumsal düzeyde getirilerle eşsiz bir 'erken giriş' penceresi sunmaktadır.",
+        "points": [
+            "5 yıl sonra sermaye kazancında sıfır emlak vergisi.",
+            "Döviz riskini ortadan kaldıran İngiliz Sterlini bazlı işlemler.",
+            "Turizm kapasitesini ikiye katlayan yeni Ercan Uluslararası Havalimanı.",
+            "Lüks villa segmentinde yıllık %15 tutarlı büyüme."
+        ],
+        "institutionalBacking": "Kurumsal Destek",
+        "auditNote": "Tüm projeler Nexa Denetim 2026 tarafından onaylanmıştır",
+        "metrics": {
+            "capitalAppreciation": {
+                "title": "Sermaye Değerlemesi",
+                "sub": "Yıllık Ortalama"
+            },
+            "rentalYield": {
+                "title": "Kira Getirisi",
+                "sub": "Net Pasif Gelir"
+            },
+            "marketCapital": {
+                "title": "Pazar Sermayesi",
+                "sub": "Toplam Proje Hacmi"
+            }
+        }
+    },
+    "roiCalculator": {
+        "tag": "YATIRIM HESAPLAYICI",
+        "title": "Yatırım Getirinizi Hesaplayın",
+        "subtitle": "Kuzey Kıbrıs'taki yatırımınızın zaman içindeki büyümesini görün.",
+        "propertyPrice": "Emlak Fiyatı (£)",
+        "rentalYield": "Yıllık Kira Getirisi (%)",
+        "appreciation": "Yıllık Fiyat Artışı (%)",
+        "years": "Yatırım Süresi (Yıl)",
+        "yearUnit": "Yıl",
+        "calculate": "ROI Hesapla",
+        "estimatedReturn": "Tahmini Getiri",
+        "basedOnData": "Piyasa geçmiş verilerine dayanmaktadır",
+        "discussPotential": "Yatırım Potansiyelini Görüşün",
+        "results": {
+            "totalRentalIncome": "Toplam Kira Geliri",
+            "propertyValueAfter": "Sonraki Emlak Değeri",
+            "totalReturn": "Toplam Getiri",
+            "roiPercentage": "ROI Yüzdesi",
+            "disclaimer": "* Öngörüler güncel piyasa verilerine dayalı tahminlerdir ve garanti edilmez."
+        }
+    },
+    "buyingProcess": {
+        "tag": "ALIM REHBERİ",
+        "title": "Kuzey Kıbrıs'ta Nasıl Mülk Alınır?",
+        "subtitle": "Uluslararası alıcılar için şeffaf, adım adım bir rehber.",
+        "steps": {
+            "1": {
+                "title": "Ücretsiz Danışmanlık",
+                "description": "İhtiyaçlarınızı ve bütçenizi paylaşın. Çok dilli danışmanlarımız size özel bir liste hazırlayacak."
+            },
+            "2": {
+                "title": "Emlak Görme Turu",
+                "description": "VIP emlak turu için Kuzey Kıbrıs'ı ziyaret edin veya sürükleyici sanal turlarımızla seçenekleri keşfedin."
+            },
+            "3": {
+                "title": "Hukuki İnceleme",
+                "description": "Ortak avukatlarımız tapu senetlerini, imar izinlerini ve tüm yasal belgeleri doğrular."
+            },
+            "4": {
+                "title": "Mülkünüzü Güvenceye Alın",
+                "description": "Rezervasyon için iade edilebilir bir depozito ödeyin. Sözleşmeleri, izinleri ve devlet onaylarını biz hallederiz."
+            },
+            "5": {
+                "title": "Tamamlama ve Teslimat",
+                "description": "Tapu devri, abonelikler, mobilya — siz anahtarları alana kadar her şeyi biz yönetiyoruz."
+            }
+        },
+        "cta": "Yolculuğunuza Başlayın"
+    },
+    "testimonials": {
+        "tag": "MÜŞTERİ HİKAYELERİ",
+        "title": "Müşterilerimiz Ne Diyor?",
+        "subtitle": "En büyük yatırımları için bize güvenen uluslararası yatırımcıların gerçek hikayeleri."
+    },
+    "blog": {
+        "tag": "İÇGÖRÜLER VE REHBERLER",
+        "title": "Uzman Bilgisi",
+        "subtitle": "Kuzey Kıbrıs yatırımcıları için piyasa analizleri, alım rehberleri ve içeriden ipuçları.",
+        "readMore": "Makaleyi Oku",
+        "minRead": "dk okuma",
+        "categories": {
+            "legal": "Hukuki Rehber",
+            "investment": "Yatırım",
+            "rental": "Kira Geliri"
+        }
+    },
+    "cta": {
+        "tag": "BUGÜN BAŞLAYIN",
+        "title": "Hayalinizdeki Mülk Sizi Bekliyor",
+        "subtitle": "Yatırım danışmanlarımızla ücretsiz bir görüşme planlayın. Sizin dilinizi konuşuyoruz.",
+        "whatsapp": "WhatsApp'tan Yazın",
+        "call": "Hemen Arayın",
+        "email": "E-posta Gönder",
+        "formTitle": "Ücretsiz Emlak Raporunuzu Alın",
+        "formName": "Ad Soyad",
+        "formEmail": "E-posta Adresi",
+        "formPhone": "Telefon (WhatsApp)",
+        "formBudget": "Bütçe Aralığı",
+        "formMessage": "Ne aradığınızı bize anlatın...",
+        "formSubmit": "Ücretsiz Raporumu Al",
+        "formDisclaimer": "Gizliliğinize saygı duyuyoruz. Asla spam yapmayız.",
+        "whatsappChat": "WhatsApp Sohbet",
+        "emailSupport": "E-posta Destek",
+        "directLine": "Doğrudan Hat",
+        "chatWithAdvisor": "Danışmanla Sohbet Edin"
+    },
+    "footer": {
+        "description": "Kuzey Kıbrıs'ın önde gelen lüks gayrimenkul danışmanlığı. 2009'dan beri yatırım hayallerini gerçeğe dönüştürüyoruz.",
+        "quickLinks": "Hızlı Bağlantılar",
+        "regions": "Bölgeler",
+        "portfolio": "Portföy",
+        "insights": "Bilgiler",
+        "contact": "İletişim",
+        "legal": "Yasal",
+        "privacy": "Gizlilik Politikası",
+        "terms": "Kullanım Şartları",
+        "cookies": "Çerez Politikası",
+        "copyright": "Tüm hakları saklıdır.",
+        "poweredBy": "Powered by"
+    },
+    "propertyDetail": {
+        "backToPortfolio": "Portföye Dön",
+        "overview": "Emlak Genel Bakış",
+        "bedrooms": "Yatak Odası",
+        "bathrooms": "Banyo",
+        "features": "Temel Özellikler",
+        "description": "Açıklama",
+        "location": "Lokasyon",
+        "floorPlan": "Kat Planı",
+        "virtualTour": "Sanal Tur",
+        "similarProperties": "Benzer Emlaklar",
+        "requestViewing": "Gösterim Talep Et",
+        "downloadBrochure": "Broşür İndir",
+        "shareProperty": "Emlağı Paylaş",
+        "priceHistory": "Fiyat Trendi",
+        "monthlyPayment": "Tahmini Aylık Ödeme",
+        "calculateMortgage": "Mortgage Hesapla",
+        "investmentValue": "Yatırım Değeri",
+        "highGrowth": "Yüksek Büyüme Potansiyeli",
+        "propertyType": "Emlak Tipi",
+        "status": "Durum",
+        "available": "Müsait",
+        "legalNotice": "Nexa Legal tarafından tamamlanmış kapsamlı yasal inceleme ve tapu doğrulaması.",
+        "limitedAvailability": "Bu projede sınırlı kontenjan",
+        "nextSiteVisit": "Sonraki Saha Ziyareti",
+        "viewingSlots": "Bu hafta için özel randevu slotları mevcut",
+        "vision": "Vizyon",
+        "interior": "İç Mekan Detayları",
+        "exterior": "Dış Mekan Lüksü",
+        "eliteProperties": "Seçkin Mülkler",
+        "eliteSubtitle": "Kuzey Kıbrıs'ın aynı performans segmentindeki en üst düzey konutlarından seçkiler."
+    },
+    "leadCapture": {
+        "title": "Bekleyin! Kaçırmayın",
+        "subtitle": "Özel Kuzey Kıbrıs Yatırım Rehberimizi ücretsiz alın.",
+        "bulletPoints": [
+            "2026 için en düşük değerli 10 bölge",
+            "Eksiksiz hukuki alım listesi",
+            "Yabancı alıcılar için vergi optimizasyon stratejileri"
+        ],
+        "emailPlaceholder": "E-posta adresiniz",
+        "whatsappPlaceholder": "WhatsApp Numarası (Opsiyonel)",
+        "submit": "Rehberi Bana Gönder",
+        "guideSent": "✅ Rehber gönderildi! Gelen kutunuzu kontrol edin.",
+        "noSpam": "Spam yok. İstediğiniz zaman ayrılabilirsiniz.",
+        "trustBadge": "2.400'den Fazla Yatırımcı Bize Güveniyor"
+    },
+    "floating": {
+        "whatsapp": "WhatsApp'tan Yazın",
+        "call": "Hemen Arayın",
+        "email": "Bize Yazın",
+        "whatsappMessages": {
+            "property": "Merhaba, bu mülk ile ilgileniyorum. Detaylı bilgi ve kat planı alabilir miyim?",
+            "portfolio": "Merhaba, portföyünüzü inceledim. Kuzey Kıbrıs'ta lüks bir yatırım arıyorum.",
+            "default": "Merhaba, Kuzey Kıbrıs mülklerinizle ilgileniyorum. Detaylı bilgi alabilir miyim?"
+        }
+    },
+    "404": {
+        "title": "Sayfa Bulunamadı",
+        "subtitle": "Aradığınız mülk satılmış olabilir.",
+        "backHome": "Ana Sayfaya Dön"
+    },
+    "contact": {
+        "title": "Yatırım Danışmanlığı",
+        "subtitle": "Lansman öncesi erişim ve özel gösterimler için kıdemli danışmanlarımızla iletişime geçin.",
+        "name": "Ad Soyad",
+        "email": "E-posta Adresi",
+        "phone": "Telefon (WhatsApp)",
+        "message": "Mesajınız",
+        "submit": "Talebi Gönder",
+        "processing": "Gönderiliyor...",
+        "successTitle": "Talep Alındı",
+        "successSubtitle": "Kıdemli bir NEXA LUXE temsilcisi tercih ettiğiniz kanal üzerinden sizinle kısa süre içinde iletişime geçecektir.",
+        "backToSite": "Siteye Dön",
+        "onlineNow": "Şu An Çevrimiçi",
+        "responseTime": "Ortalama yanıt: 12dk"
+    },
+    "chat": {
+        "assistantName": "Nexa Asistanı",
+        "liveSupport": "Canlı Destek",
+        "welcome": "Merhaba! Ben Nexa Yatırım Asistanı. Size nasıl yardımcı olabilirim?",
+        "placeholder": "Bir mesaj yazın...",
+        "hint": "Size nasıl yardımcı olabilirim?",
+        "priorityTitle": "Öncelikli Danışmanlık",
+        "prioritySubtitle": "Doğrudan yatırım direktörümüzle görüşün.",
+        "actions": {
+            "regions": "Popüler Bölgeler",
+            "roi": "Gelir Hesapla",
+            "market": "Piyasa Analizi",
+            "advisor": "Danışman İstiyorum"
+        },
+        "responses": {
+            "roi": "Yatırım geri dönüşlerini hesaplamak için ROI aracımızı kullanabilir veya uzmanlarımızla görüşebilirsiniz.",
+            "price": "Portföyümüzdeki mülkler £150,000'dan başlamaktadır. Size uygun seçenekleri sunmamı ister misiniz?",
+            "general": "Harika bir soru! Uzman yatırım danışmanımız sizi 5 dakika içinde detaylı bilgilendirebilir."
+        }
+    },
+    "propertyFeatures": {
+        "Infinity Pool": "Sonsuzluk Havuzu",
+        "Smart Home System": "Akıllı Ev Sistemi",
+        "Wine Cellar": "Şarap Mahzeni",
+        "Underfloor Heating": "Yerden Isıtma",
+        "Private Rooftop": "Özel Çatı Terası",
+        "Jacuzzi": "Jakuzi",
+        "Gym Access": "Spor Salonu Erişimi",
+        "Concierge Service": "Resepsiyon Hizmeti",
+        "Large Garden": "Geniş Bahçe",
+        "Guest House": "Misafir Evi",
+        "Staff Quarters": "Müştemilat",
+        "BBQ Area": "Barbekü Alanı",
+        "Marina Access": "Marina Erişimi",
+        "Shared Pool": "Ortak Havuz",
+        "24/7 Security": "24/7 Güvenlik",
+        "Central Location": "Merkezi Konum",
+        "Modern Kitchen": "Modern Mutfak",
+        "Private Parking": "Özel Otopark",
+        "Nearby Schools": "Yakın Okullar",
+        "Beach Access": "Plaj Erişimi",
+        "Pool": "Havuz",
+        "Landscaped Gardens": "Peyzajlı Bahçeler",
+        "Sports Facilities": "Spor Tesisleri"
+    },
+    "propertyCategories": {
+        "Villa": "Villa",
+        "Penthouse": "Penthouse",
+        "Residence": "Rezidans",
+        "Apartment": "Daire"
+    },
+    "locations": {
+        "Girne": "Girne",
+        "Bellapais": "Bellapais",
+        "İskele": "İskele",
+        "Long Beach": "Long Beach",
+        "Çatalköy": "Çatalköy",
+        "Gazimağusa": "Gazimağusa",
+        "Yeni İskele": "Yeni İskele",
+        "Center": "Merkez",
+        "Esentepe": "Esentepe"
+    }
+}
